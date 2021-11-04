@@ -1,7 +1,7 @@
 ### Bem vindo. 👋
 
-- 🔭 Atualmente trabalhando com desenvolvimento full-stack
-- 🌱 Estudando: Node e React.js
+- 🔭 Atualmente trabalhando com PHP
+- 🌱 Estudando: NodeJS
 - 📫 Me contrate em: rserravasconcelos@gmail.com
 
 <div>
