@@ -1,8 +1,8 @@
 ### Bem vindo. 👋
 
-- 🔭 Atualmente trabalhando com PHP
-- 🌱 Estudando: NodeJS
-- 📫 Me contrate em: rserravasconcelos@gmail.com
+- 🔭 Currently working with PHP
+- 🌱 Studying Nodejs/Typescript/SQL and NOSQL Databases
+- 📫 Hire me: rserravasconcelos@gmail.com
 
 <div>
   <a href="https://github.com/RamonSerraVasconcelos">
