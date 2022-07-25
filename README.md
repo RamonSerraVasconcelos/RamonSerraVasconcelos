@@ -1,4 +1,4 @@
-### Bem vindo. 👋
+### Welcome. 👋
 
 - 🔭 Currently working with PHP
 - 🌱 Studying Nodejs/Typescript/SQL and NOSQL Databases
