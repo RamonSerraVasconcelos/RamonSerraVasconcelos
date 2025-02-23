@@ -2,7 +2,6 @@
 
 - 🔭 Currently working with Java, Springboot, MongoDB, SqlServer, distributed systems and other backend technologies
 - 🌱 Studying Java, Nodejs, Typescript, SQL and NOSQL Databases
-- 📫 Hire me: rserravasconcelos@gmail.com
 
 <div>
   <a href="https://github.com/RamonSerraVasconcelos">
